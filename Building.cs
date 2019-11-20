@@ -55,6 +55,8 @@ namespace Planner
         {
             return _dateConstructed;
         }
+        /*The void keyword in the C# language indicates that a method returns nothing. When a void method is invoked,
+         it has no result and no variable can be assigned. Void is a return type and it used when method doesn't returns.*/
         public void Purchase(string owner) {
             _owner = owner;
         }

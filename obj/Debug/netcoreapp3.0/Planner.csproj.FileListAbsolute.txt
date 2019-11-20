@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspace\csharp\exercises\planner\obj\Debug\netcoreapp3.0\Planner.csprojAssemblyReference.cache
+C:\Users\NSS31\workspace\csharp\exercises\planner\obj\Debug\netcoreapp3.0\Planner.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspace\csharp\exercises\planner\obj\Debug\netcoreapp3.0\Planner.AssemblyInfo.cs
+C:\Users\NSS31\workspace\csharp\exercises\planner\bin\Debug\netcoreapp3.0\Planner.exe
+C:\Users\NSS31\workspace\csharp\exercises\planner\bin\Debug\netcoreapp3.0\Planner.deps.json
+C:\Users\NSS31\workspace\csharp\exercises\planner\bin\Debug\netcoreapp3.0\Planner.runtimeconfig.json
+C:\Users\NSS31\workspace\csharp\exercises\planner\bin\Debug\netcoreapp3.0\Planner.runtimeconfig.dev.json
+C:\Users\NSS31\workspace\csharp\exercises\planner\bin\Debug\netcoreapp3.0\Planner.dll
+C:\Users\NSS31\workspace\csharp\exercises\planner\bin\Debug\netcoreapp3.0\Planner.pdb
+C:\Users\NSS31\workspace\csharp\exercises\planner\obj\Debug\netcoreapp3.0\Planner.dll
+C:\Users\NSS31\workspace\csharp\exercises\planner\obj\Debug\netcoreapp3.0\Planner.pdb
